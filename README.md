@@ -77,7 +77,7 @@ $ ls ~/highlights
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/raprilio/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ## 🎯 What I'm Looking For
