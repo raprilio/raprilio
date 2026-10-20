@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Relocation%20%26%20Remote-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%2C%20Indonesia-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Indonesia-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-9%20Years-orange?style=for-the-badge" />
 </p>
 
