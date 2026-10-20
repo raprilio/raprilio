@@ -1,7 +1,5 @@
 <!-- Animated header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rezky%20Raka%20Putra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20%26%20Systems%20Administrator&descAlignY=58&descSize=20" width="100%" />
-</p>
+
 
 <!-- Typing animation -->
 <p align="center">
