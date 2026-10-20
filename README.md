@@ -59,15 +59,6 @@ $ ls ~/highlights
 
 **Also:** Networking (LAN/WLAN, VPN, DNS, proxy) · Kaspersky Security Center · CCTV (NVR/IP cam) · IT Asset Management
 
-## 💼 Experience Timeline
-
-| Period | Role | Company |
-|---|---|---|
-| 2023 – Now | IT Infrastructure & EUC | Wilmar International Group |
-| 2022 – 2023 | IT Infrastructure & Support | Pundi Kencana |
-| 2021 – 2022 | IT Asset & Support Engineer | Modena Indonesia |
-| 2016 – 2022 | IT Support & Helpdesk | Klinik Estetika Semarang |
-
 ## 📊 GitHub Stats
 
 <p align="center">
