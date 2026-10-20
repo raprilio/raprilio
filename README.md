@@ -70,9 +70,6 @@ $ ls ~/highlights
   <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raprilio&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 ## 🐍 Contribution Snake
 
